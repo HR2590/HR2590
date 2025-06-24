@@ -8,7 +8,7 @@ I'm a passionate Software Developer who loves building things with code — from
 
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [rthu321@hotmail.com](mailto:rthu321@hotmail.com)
-* 🧠  I'm learning OpenGL,C++,UnrealEngine
+* 🧠  I'm learning OpenGL,C++,UnrealEngine and Python
 
 <a href="https://www.github.com/HR2590" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HR2590?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

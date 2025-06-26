@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a passionate Software Developer who loves building things with code from small scripts that automate my workflow to large-scale systems. I enjoy turning complex problems into clean, efficient, and maintainable solutions.
+I'm a passionate C++ Certified Software Programmer who loves building things with code from small scripts that automate my workflow to large-scale systems. I enjoy turning complex problems into clean, efficient, and maintainable solutions.
 
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [rthu321@hotmail.com](mailto:rthu321@hotmail.com)

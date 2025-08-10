@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 I'm a passionate C++ Certified Software Programmer who loves building things with code from small scripts that automate my workflow to large-scale systems. I enjoy turning complex problems into clean, efficient, and maintainable solutions.
-
+This is my portfolio of professional practices and some interesting things I've learned throughout my master's degree. I love learning new things and trying to implement them in my own way.
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [rthu321@hotmail.com](mailto:rthu321@hotmail.com)
 * 🧠  I'm learning OpenGL,C++,UnrealEngine and Python

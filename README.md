@@ -8,7 +8,7 @@ I'm a passionate C++ Certified Software Programmer who loves building things wit
 This is my portfolio of professional practices and some interesting things I've learned throughout my master's degree. I love learning new things and trying to implement them in my own way.
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [rthu321@hotmail.com](mailto:rthu321@hotmail.com)
-* 🧠  I'm learning OpenGL,C++,UnrealEngine and Python
+* 🧠  I'm learning C/C++,Embedded Systems, OpenGL and Python
 
 <a href="https://www.github.com/HR2590" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HR2590?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

@@ -30,23 +30,5 @@ src="https://img.shields.io/github/followers/HR2590?logo=github&style=for-the-ba
 <b>My GitHub Stats</b>
 <a href="https://github.com/HR2590" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR2590&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div align="center">
-  <a href="https://github.com/HR2590/OpenGL_Scene_ObjLoader_GLAD">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=HR2590&repo=OpenGL_Scene_ObjLoader_GLAD&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-      width="45%"
-    />
-  </a>
-  <a href="https://github.com/HR2590/WarriorGameAbilities_GAS_UE5">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=HR2590&repo=WarriorGameAbilities_GAS_UE5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"
-      width="45%"
-    />
-  </a>
-</div>
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/HR2590/ToolProjectCleanerJsonLog_UE5" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HR2590&repo=ToolProjectCleanerJsonLog_UE5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/HR2590/ProceduralDungeonGeneratorTool_UE5" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HR2590&repo=ProceduralDungeonGeneratorTool_UE5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
